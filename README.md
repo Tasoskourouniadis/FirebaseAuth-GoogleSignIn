@@ -13,9 +13,9 @@ This is an Android mobile application that implements Firebbase Authentication a
 <ol>
   <li>Clone the repository to your local machine.</li>
   <li>Open the project in Android Studio.</li>
-  <li>Create your own Firebase Project.</li>
-    <li>Enable Google and Email/Password Sign-in methods.</li>
-    <li>Import your <em>google-services.json</em> file (Following firebase instructions).</li>
+  <li>Create your own Firebase Authentication Project.</li>
+  <li>Enable Google and Email/Password Sign-in methods.</li>
+  <li>Import your <em>google-services.json</em> file (Following firebase instructions).</li>
   <li>Replace <em>REQUEST_ID_TOKEN</em> in app/gradle.properties and app/build.gradle with **client_Id** from your <em>google-services.json</em> .</li>
   <li>Run the application on an emulator or an Android device.</li>
   
